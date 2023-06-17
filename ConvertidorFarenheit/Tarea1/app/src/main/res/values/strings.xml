@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="convertir_c">Convertir a °C</string>
+    <string name="ingresar_temperatura">Ingresa la temperatura en ° Fahrenheit :</string>
+    <string name="escribe_aqui_temperatura">Temperatura en °Fahrenheit</string>
+    <string name="you_should_write_here">Debes escribir la temperatura en °Fahrenheit </string>
+    <string name="temperatura_c">La temperatura es de %s °C</string>
+</resources>
